@@ -1,4 +1,4 @@
-bchlib>=0.14.0
+bchlib==0.14.0
 opencv-python>=3.4.3.18
 numpy>=1.16.2
 pillow>=5.4.1
