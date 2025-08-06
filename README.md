@@ -28,7 +28,7 @@ git clone --recurse-submodules https://github.com/tancik/StegaStamp.git
 cd StegaStamp
 ```
 - Install tensorflow (tested with tf 1.13)
-- Python 3 required
+- Python 3 required,3.6 or 3.7 are both OK,other versions are unknown
 - Download dependencies
 ```bash=
 pip install -r requirements.txt
